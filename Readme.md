@@ -47,6 +47,11 @@ License: [CC-by-nc](http://creativecommons.org/licenses/by-nc/3.0/)
 File: mother.mp3
 
 
+Photos
+-------
+Photos are public domain.
+
+
 Uses
 =====
 Used at [github.com/portablejim/mediaelement-playlist-plugin](https://github.com/portablejim/mediaelement-playlist-plugin)
