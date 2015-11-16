@@ -19,6 +19,15 @@ License: [CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 File: LucaFrancini-EarthRemix.mp3 (Converted to MP3)
 
 
+OMFG - Hello
+------------
+Url: [https://soundcloud.com/argofox/omfg-hello](https://soundcloud.com/argofox/omfg-hello)
+
+License: [CC-by](http://creativecommons.org/licenses/by/3.0/)
+
+File: OMFG-Hello.mp3
+
+
 RSF - Forward
 --------------
 URL: [https://soundcloud.com/rsfmu/forward](https://soundcloud.com/rsfmu/forward)
